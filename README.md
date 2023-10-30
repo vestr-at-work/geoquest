@@ -45,6 +45,8 @@ with your phone connected or emulator setup.
 
 Let us know in the Issues or Discusions what you think!
 
-☠️ **IMPOTRANT NOTE: The game is practicaly not existant as of right now. We are working on it.** ☠️
+>☠️ **IMPOTRANT NOTE: The game is practicaly not existant as of right now. We are working on it.** ☠️
+
+and by "we" I mean "I" at the moment :) but feel free to join!
 
 
